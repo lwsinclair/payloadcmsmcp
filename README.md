@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/matmax-worldwide-payloadcmsmcp-badge.png)](https://mseep.ai/app/matmax-worldwide-payloadcmsmcp)
+
 # 🚀 Payload CMS 3.0 MCP Server
 
 <div align="center">
